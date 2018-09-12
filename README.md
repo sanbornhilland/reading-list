@@ -1,4 +1,7 @@
-# Reading List
+<p align="center">
+  <img src="/assets/logo.png?raw=true" width="128">
+  <h3 align="center">It's a reading list</h3>
+</p>
 
 ## Index
 
@@ -14,6 +17,8 @@
   https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md
 
   The team behind Wordpress's new admin panel looks at their migration from emitters to Flux to Redux, and describes how they organize their state tree, use selectors to extract state, run queries with components, and persist their store state through refreshes.
+
+**[Index](#index)**
 
 
 ## Video
@@ -32,3 +37,5 @@
   Continuing the "firehose" tradition of maximum information density, Xiph.Org's second video on digital media explores multiple facets of digital audio signals and how they really behave in the real world.
 
   Demonstrations of sampling, quantization, bit-depth, and dither explore digital audio behavior on real audio equipment using both modern digital analysis and vintage analog bench equipment... just in case we can't trust those newfangled digital gizmos. You can also download the source code for each demo and try it all for yourself!
+
+**[Index](#index)**
