@@ -6,8 +6,19 @@
 ## Index
 
 - [Index](#index)
+- [React](#react)
 - [Redux](#redux)
 - [Video](#video)
+
+## React
+
+- **React is Slow, React is Fast: Optimizing React Apps in Practice**
+
+  https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
+
+  An excellent overview of common performance pitfalls in React and how to solve them.
+
+  **[Index](#index)**
 
 
 ## Redux
