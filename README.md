@@ -6,9 +6,21 @@
 ## Index
 
 - [Index](#index)
+- [Performance](#performance)
 - [React](#react)
 - [Redux](#redux)
 - [Video](#video)
+
+## Performance
+
+- **Idle Until Urgent**
+
+ https://philipwalton.com/articles/idle-until-urgent/
+
+ Provides a good look at common JavaScripe bottlenecks and how to improve them by using an "Idle Until Urgent" strategy whereby tasks are scheduled using `requestIdleCallback` unless they are needed earlier in which case they are evaluated immediately upon being required.
+
+**[Index](#index)**
+
 
 ## React
 
@@ -18,7 +30,7 @@
 
   An excellent overview of common performance pitfalls in React and how to solve them.
 
-  **[Index](#index)**
+**[Index](#index)**
 
 
 ## Redux
