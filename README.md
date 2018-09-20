@@ -7,6 +7,7 @@
 
 - [Index](#index)
 - [Performance](#performance)
+- [JavaScript](#javascript)
 - [React](#react)
 - [Redux](#redux)
 - [Video](#video)
@@ -18,6 +19,17 @@
  https://philipwalton.com/articles/idle-until-urgent/
 
  Provides a good look at common JavaScripe bottlenecks and how to improve them by using an "Idle Until Urgent" strategy whereby tasks are scheduled using `requestIdleCallback` unless they are needed earlier in which case they are evaluated immediately upon being required.
+
+**[Index](#index)**
+
+
+## JavaScript
+
+- **In The Loop: JsConf Talk**
+
+  https://www.youtube.com/watch?v=cCOL7MC4Pl0&feature=youtu.be
+
+  This talk looks at the browser's event loop, the thing that orchestrates the main thread of the browser, which includes JavaScript, events, and rendering. We'll look at the difference between tasks, microtasks, requestAnimationFrame, requestIdleCallback, and where events land.
 
 **[Index](#index)**
 
