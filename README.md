@@ -39,7 +39,12 @@
       
      While this article is focused on game programming specifically, it's a good exlanantion of how to efficiently schedule rendering and user input using `requestAnimationFrame` to achieve high frame rates. For this reason it's a good read for those using the `requestAnimationFrame` API for other applications.
       
-      
+- **Understand JavaScript’s “this” With Clarity, and Master It**
+
+     https://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+     
+     This is simply the best article I've found about how **this** works in JavaScript.
+
 **[Index](#index)**
 
 
