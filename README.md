@@ -55,6 +55,12 @@
      https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html
 
      An excellent overview of common performance pitfalls in React and how to solve them.
+     
+- **React as a UI Runtime**
+
+     https://overreacted.io/react-as-a-ui-runtime/
+     
+     This one is long but it's an excellent deep dive into the concepts and thinking behind React. By the man himself, Dan Abramov.
 
 **[Index](#index)**
 
