@@ -19,6 +19,13 @@
      https://philipwalton.com/articles/idle-until-urgent/
 
      Provides a good look at common JavaScripe bottlenecks and how to improve them by using an "Idle Until Urgent" strategy whereby tasks are scheduled using `requestIdleCallback` unless they are needed earlier in which case they are evaluated immediately upon being required.
+ 
+ 
+- **Scheduling in React**
+
+     https://philippspiess.com/scheduling-in-react/
+     
+     Similar to the **Idle Until Urgent** article above, this article digs into some advanced React scheduling features coming down the pipe. A good introduction to the future of some React APIs and a good article to keep tabs on as these scheduler features are developed. 
      
 
 **[Index](#index)**
