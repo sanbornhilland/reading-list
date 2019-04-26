@@ -11,6 +11,7 @@
 - [React](#react)
 - [Redux](#redux)
 - [Video](#video)
+- [UX](#ux)
 
 ## Performance
 
@@ -105,5 +106,13 @@
      Continuing the "firehose" tradition of maximum information density, Xiph.Org's second video on digital media explores multiple facets of digital audio signals and how they really behave in the real world.
 
      Demonstrations of sampling, quantization, bit-depth, and dither explore digital audio behavior on real audio equipment using both modern digital analysis and vintage analog bench equipment... just in case we can't trust those newfangled digital gizmos. You can also download the source code for each demo and try it all for yourself!
+
+**[Index](#index)**
+
+
+## UX
+- **Why so much “science” used in design is bullshit: Android, Losada and Frankfurt.**
+
+    http://mjparnell.com/bullshit_science_ux_design/
 
 **[Index](#index)**
