@@ -12,6 +12,7 @@
 - [Redux](#redux)
 - [Video](#video)
 - [UX](#ux)
+- [HTTP](#http)
 
 ## Performance
 
@@ -114,5 +115,13 @@
 - **Why so much “science” used in design is bullshit: Android, Losada and Frankfurt.**
 
     http://mjparnell.com/bullshit_science_ux_design/
+    
+**[Index](#index)**
+
+    
+## HTTP
+- **HTTP headers for the responsible developer**
+
+    https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
 
 **[Index](#index)**
