@@ -15,7 +15,7 @@
 - [UX](#ux)
 - [HTTP](#http)
 
-## Programming Wisdom
+## Wisdom
 
 - **Things I Learnt The Hard Way (in 30 Years of Software Development)**
 
