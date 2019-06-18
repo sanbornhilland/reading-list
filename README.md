@@ -6,6 +6,7 @@
 ## Index
 
 - [Index](#index)
+- [Wisdom](#wisdom)
 - [Performance](#performance)
 - [JavaScript](#javascript)
 - [React](#react)
@@ -13,6 +14,15 @@
 - [Video](#video)
 - [UX](#ux)
 - [HTTP](#http)
+
+## Programming Wisdom
+
+- **Things I Learnt The Hard Way (in 30 Years of Software Development)**
+
+     https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
+     
+**[Index](#index)**
+
 
 ## Performance
 
