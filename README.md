@@ -133,6 +133,10 @@
 
     http://mjparnell.com/bullshit_science_ux_design/
     
+- **4 Rules for Intuitive UX**
+
+    https://learnui.design/blog/4-rules-intuitive-ux.html
+    
 **[Index](#index)**
 
     
