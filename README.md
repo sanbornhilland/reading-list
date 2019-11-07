@@ -93,6 +93,12 @@
      https://overreacted.io/react-as-a-ui-runtime/
      
      This one is long but it's an excellent deep dive into the concepts and thinking behind React. By the man himself, Dan Abramov.
+     
+- **Building Great User Experiences with Concurrent Mode and Suspense**
+
+     https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html
+
+     This includes an excellent discussion on data fetching in a React app. 
 
 **[Index](#index)**
 
