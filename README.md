@@ -76,6 +76,10 @@
      https://itnext.io/a-bloatless-web-d4f811c7991b
 
      An excellent discussion of how to cut down on JavaScript bloat on modern web apps. Includes some specific steps that can be taken to avoid unnecessary code caused by transpilers.
+     
+- **Metaprogramming in ES6: Symbols and why they're awesome** 
+
+     https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/
 
 **[Index](#index)**
 
