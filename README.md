@@ -47,6 +47,12 @@
      Similar to the **Idle Until Urgent** article above, this article digs into some advanced React scheduling features coming down the pipe. A good introduction to the future of some React APIs and a good article to keep tabs on as these scheduler features are developed. 
      
 
+- **The Unseen Performance Cost of CSS-in-JS**
+
+     https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/
+     
+     In this article, I will attempt to demystify the high-level strategies of the most popular CSS-in-JS libraries, discuss the performance issues they may introduce on occasion and finally consider techniques that we can employ to mitigate them.
+
 **[Index](#index)**
 
 
