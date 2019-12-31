@@ -53,6 +53,12 @@
      
      In this article, I will attempt to demystify the high-level strategies of the most popular CSS-in-JS libraries, discuss the performance issues they may introduce on occasion and finally consider techniques that we can employ to mitigate them.
 
+- **Ubiquity: The Fallacy of Premature Optimization**
+
+    https://ubiquity.acm.org/article.cfm?id=1513451
+    
+    Randall Hyde argues that optimization is important even when memory and processor double regularly. Trying to do the optimization too early can be a futile time-waster.
+    
 **[Index](#index)**
 
 
