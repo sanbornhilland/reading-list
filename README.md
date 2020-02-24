@@ -58,6 +58,10 @@
     https://ubiquity.acm.org/article.cfm?id=1513451
     
     Randall Hyde argues that optimization is important even when memory and processor double regularly. Trying to do the optimization too early can be a futile time-waster.
+
+- **Reflection on Performance**
+
+    https://blog.nelhage.com/post/reflections-on-performance/
     
 **[Index](#index)**
 
