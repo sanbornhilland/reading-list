@@ -26,6 +26,12 @@
     http://flownet.com/gat/jpl-lisp.html
 
     "The situation is particularly ironic because the argument that has been advanced for discarding Lisp in favor of C++ (and now for Java) is that JPL should use "industry best practice." The problem with this argument is twofold: first, we're confusing best practice with standard practice. The two are not the same. And second, we're assuming that best (or even standard) practice is an invariant with respect to the task, that the best way to write a word processor is also the best way to write a spacecacraft control system. It isn't."
+
+- **Reading Postmortems**
+
+    https://danluu.com/postmortem-lessons/
+
+    "If you care about building robust systems, the error checking code is the main code!"
      
 **[Index](#index)**
 
