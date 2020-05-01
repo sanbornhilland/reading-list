@@ -32,6 +32,12 @@
     https://danluu.com/postmortem-lessons/
 
     "If you care about building robust systems, the error checking code is the main code!"
+
+- **Complexity Has to Live Somewhere**
+
+    https://ferd.ca/complexity-has-to-live-somewhere.html
+
+    "Complexity has to live somewhere. If you embrace it, give it the place it deserves, design your system and organisation knowing it exists, and focus on adapting, it might just become a strength."
      
 **[Index](#index)**
 
