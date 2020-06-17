@@ -168,7 +168,13 @@
      Continuing the "firehose" tradition of maximum information density, Xiph.Org's second video on digital media explores multiple facets of digital audio signals and how they really behave in the real world.
 
      Demonstrations of sampling, quantization, bit-depth, and dither explore digital audio behavior on real audio equipment using both modern digital analysis and vintage analog bench equipment... just in case we can't trust those newfangled digital gizmos. You can also download the source code for each demo and try it all for yourself!
-
+     
+ - **Digital Video Introduction**
+ 
+     https://github.com/leandromoreira/digital_video_introduction
+     
+     A gentle introduction to video technology, although it's aimed at software developers / engineers, we want to make it easy for anyone to learn.
+     
 **[Index](#index)**
 
 
