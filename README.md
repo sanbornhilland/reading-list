@@ -199,6 +199,10 @@
 
     https://uiplaybook.dev/
     
+- **Microcopy**
+
+    https://steamclock.com/blog/2020/10/microcopy/
+    
 **[Index](#index)**
 
     
