@@ -7,6 +7,7 @@
 
 - [Index](#index)
 - [Wisdom](#wisdom)
+- [General Programming](#general-programming)
 - [Performance](#performance)
 - [JavaScript](#javascript)
 - [React](#react)
@@ -39,6 +40,17 @@
 
     "Complexity has to live somewhere. If you embrace it, give it the place it deserves, design your system and organisation knowing it exists, and focus on adapting, it might just become a strength."
      
+**[Index](#index)**
+
+
+## General Programming
+
+- **Flattening Arrow Code**
+
+    https://blog.codinghorror.com/flattening-arrow-code/
+
+    An explanation of why arrow code is bad and some good strategies for dealing with it.
+
 **[Index](#index)**
 
 
