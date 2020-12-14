@@ -10,6 +10,7 @@
 - [General Programming](#general-programming)
 - [Performance](#performance)
 - [JavaScript](#javascript)
+- [HTML/CSS](#htmlcss)
 - [React](#react)
 - [Redux](#redux)
 - [Video](#video)
@@ -135,6 +136,15 @@
 
 **[Index](#index)**
 
+## HTML/CSS
+
+- **Every Layout**
+
+    https://every-layout.dev/
+
+    A number of example layouts and how to create them using minimal CSS and HTML. Also includes several lessons on good fundamentals that are very informative.
+
+**[Index](#index)**
 
 ## React
 
