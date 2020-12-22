@@ -41,6 +41,10 @@
 
     "Complexity has to live somewhere. If you embrace it, give it the place it deserves, design your system and organisation knowing it exists, and focus on adapting, it might just become a strength."
      
+- **My Engineering Axioms**
+
+    https://martinrue.com/my-engineering-axioms/
+
 **[Index](#index)**
 
 
