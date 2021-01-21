@@ -138,6 +138,12 @@
 
      https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/
 
+- **Vanilla JS Toolkit**
+
+    https://vanillajstoolkit.com/reference/
+
+    A great resource for brushing up on fundamentals and no-nonsense JS stuff. JS-Free Components is short but good resource for how to do some common things without JS.
+
 **[Index](#index)**
 
 ## HTML/CSS
