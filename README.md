@@ -10,6 +10,7 @@
 - [General Programming](#general-programming)
 - [Performance](#performance)
 - [JavaScript](#javascript)
+- [TypeScript](#typescript)
 - [HTML/CSS](#htmlcss)
 - [React](#react)
 - [Redux](#redux)
@@ -153,6 +154,14 @@
 - **From JavaScript to WebAssembly in three steps**
 
     https://engineering.q42.nl/webassembly/
+
+**[Index](#index)**
+
+## TypeScript
+
+- **Tackling TypeScript: Upgrading from JavaScript**
+
+    https://exploringjs.com/tackling-ts/index.html
 
 **[Index](#index)**
 
