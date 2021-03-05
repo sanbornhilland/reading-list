@@ -163,6 +163,10 @@
 
     https://exploringjs.com/tackling-ts/index.html
 
+- **React TypeScript Cheat Sheet**
+
+    https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
+
 **[Index](#index)**
 
 ## HTML/CSS
