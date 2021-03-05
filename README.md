@@ -7,6 +7,7 @@
 
 - [Index](#index)
 - [Wisdom](#wisdom)
+- [Computer Science](#computer-science)
 - [General Programming](#general-programming)
 - [Performance](#performance)
 - [JavaScript](#javascript)
@@ -54,6 +55,13 @@
 
 **[Index](#index)**
 
+## Computer Science
+
+- **Comprehensive Guide to Learn Computer Science Online**
+
+  https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online
+
+**[Index](#index)**
 
 ## General Programming
 
