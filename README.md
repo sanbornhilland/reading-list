@@ -47,11 +47,15 @@
 
     https://martinrue.com/my-engineering-axioms/
 
-- **The Rise of Worse is Better*
+- **The Rise of Worse is Better**
 
     "The lesson to be learned from this is that it is often undesirable to go for the right thing first. It is better to get half of the right thing available so that it spreads like a virus. Once people are hooked on it, take the time to improve it to 90% of the right thing."
 
     https://www.dreamsongs.com/RiseOfWorseIsBetter.html
+
+- **50 Short Product Lessons**
+
+    https://cutle.fish/blog/50-product-lessons#anchor46
 
 **[Index](#index)**
 
