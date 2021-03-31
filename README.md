@@ -269,6 +269,17 @@
 - **Microcopy**
 
     https://steamclock.com/blog/2020/10/microcopy/
+
+### ToggleSwitches
+
+- Control boolean state
+- Switches are for System States (not local)
+- Switches should have immediate effect
+- Label copy should be obvious (user’s shouldn’t have to flip the switch to discover what it does)
+- Labels should describe what the control will do when the switch is on
+- https://www.justinmind.com/blog/toggle-design-patterns-examples/
+- https://developer.yoast.com/blog/when-to-use-toggle-switches/
+- https://www.nngroup.com/articles/toggle-switch-guidelines/
     
 **[Index](#index)**
 
