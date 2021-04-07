@@ -57,6 +57,12 @@
 
     https://cutle.fish/blog/50-product-lessons#anchor46
 
+- **Technical Debt Quadrant**
+
+    A useful explanation of how to conceive of the Technical Debt metaphor and different kinds of Technical Debt.
+
+    https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+
 **[Index](#index)**
 
 ## Computer Science
