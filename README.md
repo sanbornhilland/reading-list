@@ -9,6 +9,7 @@
 - [Wisdom](#wisdom)
 - [Computer Science](#computer-science)
 - [General Programming](#general-programming)
+- [Organization](#organization)
 - [Performance](#performance)
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
@@ -83,6 +84,13 @@
 
 **[Index](#index)**
 
+## Organization
+
+- **Product-Centric is Just as Bad as Sales Driven**
+
+    https://itamargilad.com/product-led/
+
+    A common complaint I hear from product folk is that management is too “sales-driven”. It is a common ailment indeed, but I can tell you that the opposite condition, the strictly “product-focused” company, is pretty bad too. Both companies suffer from over-focus and a narrow worldview. 
 
 ## Performance
 
