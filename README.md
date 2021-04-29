@@ -63,6 +63,12 @@
     A useful explanation of how to conceive of the Technical Debt metaphor and different kinds of Technical Debt.
 
     https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+    
+- **New Evidence That British Workplaces Are Losing Viewpoint Diversity**
+
+    "However, organizations can depolarize. Leaders and communicators can influence this process by creating a sense of common purpose, firmly rooted in a clear and reassuring view of the future, in which everyone understands the role they have to play and all voices are listened to, even if they don’t feel confident about speaking up."
+
+    https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/
 
 **[Index](#index)**
 
