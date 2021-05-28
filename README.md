@@ -77,6 +77,10 @@
 - **Comprehensive Guide to Learn Computer Science Online**
 
   https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online
+  
+- **Finite State Machines**
+
+  https://www.youtube.com/watch?v=4rNYAvsSkwk
 
 **[Index](#index)**
 
