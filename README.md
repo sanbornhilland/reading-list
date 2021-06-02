@@ -70,6 +70,12 @@
 
     https://www.ethicalsystems.org/new-evidence-that-british-workplaces-are-losing-viewpoint-diversity/
 
+- **How Philosophers Think**
+
+    "The pressure to have an opinion on every important topic has incentivized lazy thinking, the consequences of which we feel every day. Only by expanding our intellectual aperture and attacking our own ideas can we wage war on the narcotic of cheap, bumper sticker arguments. As we do, we can identify the intellectual cancers that plague our culture and constrict our worldview."
+
+  https://perell.com/essay/how-philosophers-think/
+  
 **[Index](#index)**
 
 ## Computer Science
