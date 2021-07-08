@@ -98,6 +98,14 @@
 
     An explanation of why arrow code is bad and some good strategies for dealing with it.
 
+- **A Philosophy of Software Design**
+
+    <details>
+      <summary>Notes</summary>
+
+      # Chapter 1
+    </details>
+
 **[Index](#index)**
 
 ## Organization
