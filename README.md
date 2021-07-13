@@ -103,7 +103,11 @@
     <details>
       <summary>Notes</summary>
 
-      # Chapter 1
+  ## Chapter 1
+  - The goal of software design is to reduce and manage complexity
+  - Two primary ways to do this are:
+    - Make code simpler and more obvious
+    - Modular Design: Encapsulate complexity in one area to avoid spreading complexity
     </details>
 
 **[Index](#index)**
