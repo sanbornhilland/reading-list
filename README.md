@@ -32,6 +32,10 @@
 
     "The situation is particularly ironic because the argument that has been advanced for discarding Lisp in favor of C++ (and now for Java) is that JPL should use "industry best practice." The problem with this argument is twofold: first, we're confusing best practice with standard practice. The two are not the same. And second, we're assuming that best (or even standard) practice is an invariant with respect to the task, that the best way to write a word processor is also the best way to write a spacecacraft control system. It isn't."
     
+- **100 Things Every Web Developer Should Know**
+
+    https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/
+    
 - **What to Learn**
 
     https://danluu.com/learn-what/
