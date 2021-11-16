@@ -100,6 +100,14 @@
 
 ## General Programming
 
+- **Goodbye, Clean Code**
+
+    https://overreacted.io/goodbye-clean-code/
+
+    'Am I saying that you should write “dirty” code? No. I suggest to think deeply about what you mean when you say “clean” or “dirty”. Do you get a feeling of revolt? Righteousness? Beauty? Elegance? How sure are you that you can name the concrete engineering outcomes corresponding to those qualities? How exactly do they affect the way the code is written and modified?'
+
+
+
 - **Flattening Arrow Code**
 
     https://blog.codinghorror.com/flattening-arrow-code/
