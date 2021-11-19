@@ -180,6 +180,10 @@
     This is an extremely helpful (and maintained) list of properties that cause layouts and reflows, along with a number of good source to help avoid layout thrashing.
 
     https://gist.github.com/paulirish/5d52fb081b3570c81e3a
+
+- **Understanding Why a Build Got 15x Slower with Webpack 5**
+
+    https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack
     
 **[Index](#index)**
 
