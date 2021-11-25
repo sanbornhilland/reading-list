@@ -18,7 +18,7 @@
 - [Redux](#redux)
 - [Video](#video)
 - [UX](#ux)
-- [HTTP](#http)
+- [Networking](#networking)
 
 ## Wisdom
 
@@ -346,9 +346,24 @@
 **[Index](#index)**
 
     
-## HTTP
+## Networking
 - **HTTP headers for the responsible developer**
 
     https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+
+- **High Performance Browser Networking**
+
+    https://hpbn.co/
+
+    <details>
+      <summary>Notes</summary>
+
+  ## Primer on Latency and Bandwidth
+  - **Latency**: The time from the surce sending a packet to the destination receiving it
+  - **Bandwidth**: Maximum throughput of a logical or physical communication path
+
+    </details>
+
+    
 
 **[Index](#index)**
