@@ -96,6 +96,16 @@
 
   https://www.youtube.com/watch?v=4rNYAvsSkwk
 
+- **On the criteria to be used in decomposing systems into modules** - David Lorge Parnas
+
+  This paper discusses modularization as a mechanism for improving
+the flexibility and comprehensibility of a system while allowing the
+shortening of its development time. The effectiveness of a "modulariza
+tion11 is dependent upon the criteria used in dividing the system into
+modules.
+
+  https://prl.ccs.neu.edu/img/p-tr-1971.pdf
+
 **[Index](#index)**
 
 ## General Programming
