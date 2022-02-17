@@ -84,6 +84,10 @@
 
   https://perell.com/essay/how-philosophers-think/
   
+- **Building for the 99% Developers**
+
+    https://future.a16z.com/software-development-building-for-99-developers/
+  
 **[Index](#index)**
 
 ## Computer Science
