@@ -25,6 +25,10 @@
 - **Things I Learnt The Hard Way (in 30 Years of Software Development)**
 
      https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
+     
+- **My Guiding Principles After 20 Years of Programming**
+
+     https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c
 
 - **Lisping at JPL**
 
