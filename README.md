@@ -290,6 +290,12 @@ modules.
      https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html
 
      This includes an excellent discussion on data fetching in a React app. 
+     
+- **Why I don't miss React: a story about using the platform**
+
+     https://www.jackfranklin.co.uk/blog/working-with-react-and-the-web-platform/
+
+     This is not an argument against React specifically but rather an argument that the Web platform has introduced many features over the last 5 years or so that render web frameworks unnecessary for many use-cases.
 
 **[Index](#index)**
 
