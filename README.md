@@ -355,6 +355,10 @@ modules.
 - **Microcopy**
 
     https://steamclock.com/blog/2020/10/microcopy/
+    
+- **Please Stop Using Grey Text**
+
+    https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8
 
 ### ToggleSwitches
 
