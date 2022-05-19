@@ -268,6 +268,13 @@ modules.
     https://every-layout.dev/
 
     A number of example layouts and how to create them using minimal CSS and HTML. Also includes several lessons on good fundamentals that are very informative.
+    
+    
+- **Details on <details\>**
+
+    A short presentation on how powerful the `details` element is and how it can be used to replace JS-heavy UI components.
+
+    https://docs.google.com/presentation/d/1hvnPpsJo44BTPfJx28CV95vqk_dt6na1awUbk0kmZYM/edit#slide=id.g3e31444916_0_48
 
 **[Index](#index)**
 
