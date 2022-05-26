@@ -91,6 +91,10 @@
 - **Building for the 99% Developers**
 
     https://future.a16z.com/software-development-building-for-99-developers/
+    
+- **Mental Model Example and Their Explanations**
+
+    https://fronterablog.com/mental-model-examples-and-their-explanations/
   
 **[Index](#index)**
 
