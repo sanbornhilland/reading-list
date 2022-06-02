@@ -158,6 +158,11 @@ modules.
 
     A common complaint I hear from product folk is that management is too “sales-driven”. It is a common ailment indeed, but I can tell you that the opposite condition, the strictly “product-focused” company, is pretty bad too. Both companies suffer from over-focus and a narrow worldview. 
 
+- **Lessons learned as a software developer turned project manager**
+
+    https://karimjedda.com/lessons-learned-developer-to-project-manager/
+    
+    
 ## Performance
 
 - **Idle Until Urgent**
