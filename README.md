@@ -217,6 +217,12 @@ modules.
 
 ## JavaScript
 
+- **Patterns.dev**
+
+    https://www.patterns.dev/
+
+    Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+
 - **In The Loop: JsConf Talk**
 
      https://www.youtube.com/watch?v=cCOL7MC4Pl0&feature=youtu.be
