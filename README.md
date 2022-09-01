@@ -261,6 +261,10 @@ modules.
 - **From JavaScript to WebAssembly in three steps**
 
     https://engineering.q42.nl/webassembly/
+    
+- **The Modern Guide to Packaging your JavaScript Library**
+    
+    https://github.com/frehner/modern-guide-to-packaging-js-library
 
 **[Index](#index)**
 
