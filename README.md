@@ -266,6 +266,10 @@ modules.
     
     https://github.com/frehner/modern-guide-to-packaging-js-library
 
+- **Loading Polyfills Only When Needed**
+
+    https://philipwalton.com/articles/loading-polyfills-only-when-needed/
+
 **[Index](#index)**
 
 ## TypeScript
