@@ -99,6 +99,10 @@
 - **How Do You Solve Content Moderation Problems on Twitter?**
 
     https://threadreaderapp.com/thread/1586955288061452289.html
+    
+- **Advice That Actually Worked for Me**
+
+    https://nabeelqu.co/advice
   
 **[Index](#index)**
 
