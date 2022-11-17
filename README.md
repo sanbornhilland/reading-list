@@ -22,6 +22,8 @@
 
 ## Wisdom
 
+![Screenshot 2022-11-17 at 8 45 34 AM](https://user-images.githubusercontent.com/8059361/202462734-a4304e70-c670-4736-bca6-cdc8f44cf344.png)
+
 - **Things I Learnt The Hard Way (in 30 Years of Software Development)**
 
      https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/
