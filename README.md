@@ -309,6 +309,12 @@ modules.
 
     https://docs.google.com/presentation/d/1hvnPpsJo44BTPfJx28CV95vqk_dt6na1awUbk0kmZYM/edit#slide=id.g3e31444916_0_48
 
+- **Tree Views in CSS**
+
+    Pure HTML/CSS collapsible tree views.
+
+    https://iamkate.com/code/tree-views/
+
 - **How Did REST Come to Mean the Opposite of REST?**
 
     https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/
