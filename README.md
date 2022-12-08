@@ -105,6 +105,12 @@
 - **Advice That Actually Worked for Me**
 
     https://nabeelqu.co/advice
+
+- **Ideas that Changed My Life**
+
+  You spend years trying to learn new stuff but then look back and realize that maybe like 10 big ideas truly changed how you think and drive most of what you believe.
+
+  https://collabfund.com/blog/ideas-that-changed-my-life/
   
 **[Index](#index)**
 
