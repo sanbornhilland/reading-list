@@ -112,6 +112,10 @@
 
   https://collabfund.com/blog/ideas-that-changed-my-life/
   
+- **On Demand Learning is Ruining the Tech Industry**
+
+  https://www.jernesto.com/articles/learning.html
+  
 **[Index](#index)**
 
 ## Computer Science
