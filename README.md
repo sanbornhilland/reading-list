@@ -231,6 +231,10 @@ modules.
 - **Understanding Why a Build Got 15x Slower with Webpack 5**
 
     https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack
+
+- **Speeding Up the Javascript Ecosystem**
+
+    https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/
     
 **[Index](#index)**
 
