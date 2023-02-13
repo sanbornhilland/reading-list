@@ -282,6 +282,10 @@ modules.
 
     A great resource for brushing up on fundamentals and no-nonsense JS stuff. JS-Free Components is short but good resource for how to do some common things without JS.
     
+- **Vanilla List**
+    
+    https://vanillalist.top/
+    
 - **From JavaScript to WebAssembly in three steps**
 
     https://engineering.q42.nl/webassembly/
