@@ -11,7 +11,7 @@
 - [General Programming](#general-programming)
 - [Organization](#organization)
 - [Performance](#performance)
-- [JS Framework Wars](#jsframeworkwars)
+- [JS Framework Wars](#js-framework-wars)
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [HTML/CSS](#htmlcss)
