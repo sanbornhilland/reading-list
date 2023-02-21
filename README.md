@@ -11,6 +11,7 @@
 - [General Programming](#general-programming)
 - [Organization](#organization)
 - [Performance](#performance)
+- [JS Framework Wars](#jsframeworkwars)
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [HTML/CSS](#htmlcss)
@@ -238,6 +239,14 @@ modules.
     
 **[Index](#index)**
 
+## JS Framework Wars
+
+- **What to Expect From Your Framework**
+
+    https://johan.hal.se/wrote/2023/02/17/what-to-expect-from-your-framework/
+    
+    But come on: we’re living in the 2020s and if you’re not at like 95% “framework does it for you” for things that aren’t business logic, then you’ve lashed yourself to a very bad mast ‒ you’re stuck building rote infrastructure instead of working on your app, likely creating a bunch of nasty attack surfaces along the way. And what are you getting in return? The warm and fuzzy feeling of deciding precisely how your session cookie is stored and encrypted?
+  
 
 ## JavaScript
 
