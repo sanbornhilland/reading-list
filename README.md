@@ -7,6 +7,7 @@
 
 - [Index](#index)
 - [Wisdom](#wisdom)
+- [Systems Design](#systems-design)
 - [Computer Science](#computer-science)
 - [General Programming](#general-programming)
 - [Organization](#organization)
@@ -117,6 +118,14 @@
 
   https://www.jernesto.com/articles/learning.html
   
+**[Index](#index)**
+
+## Systems Design
+
+- Systems Design Explains the World: Volume 1
+
+  https://apenwarr.ca/log/20201227
+
 **[Index](#index)**
 
 ## Computer Science
