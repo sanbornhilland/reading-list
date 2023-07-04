@@ -182,6 +182,10 @@ modules.
 
 ## Organization
 
+- **Theory-building and why employee churn is lethal to software companies**
+
+  https://www.baldurbjarnason.com/2022/theory-building/
+
 - **Product-Centric is Just as Bad as Sales Driven**
 
     https://itamargilad.com/product-led/
