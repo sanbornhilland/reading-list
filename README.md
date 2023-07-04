@@ -332,6 +332,10 @@ modules.
 
 ## HTML/CSS
 
+- **Breaking Up with SVG-in-JS in 2023**
+
+    https://kurtextrem.de/posts/svg-in-js
+
 - **Every Layout**
 
     https://every-layout.dev/
