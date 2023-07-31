@@ -456,6 +456,7 @@ modules.
 
 ### ToggleSwitches
 
+#### Conventional Wisdom
 - Control boolean state
 - Switches are for System States (not local)
 - Switches should have immediate effect
@@ -464,6 +465,9 @@ modules.
 - https://www.justinmind.com/blog/toggle-design-patterns-examples/
 - https://developer.yoast.com/blog/when-to-use-toggle-switches/
 - https://www.nngroup.com/articles/toggle-switch-guidelines/
+
+#### Counter-arguments
+- https://axesslab.com/toggles-suck/
     
 **[Index](#index)**
 
