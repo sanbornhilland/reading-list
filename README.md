@@ -259,6 +259,12 @@ modules.
     https://johan.hal.se/wrote/2023/02/17/what-to-expect-from-your-framework/
     
     But come on: we’re living in the 2020s and if you’re not at like 95% “framework does it for you” for things that aren’t business logic, then you’ve lashed yourself to a very bad mast ‒ you’re stuck building rote infrastructure instead of working on your app, likely creating a bunch of nasty attack surfaces along the way. And what are you getting in return? The warm and fuzzy feeling of deciding precisely how your session cookie is stored and encrypted?
+
+- **Things you forgot (or never knew) because of React**
+
+    https://joshcollinsworth.com/blog/antiquated-react
+
+    I don’t think most people using React on a regular basis realize quite how much it’s fallen behind.
   
 
 ## JavaScript
