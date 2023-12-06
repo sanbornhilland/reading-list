@@ -195,6 +195,10 @@ modules.
 - **Lessons learned as a software developer turned project manager**
 
     https://karimjedda.com/lessons-learned-developer-to-project-manager/
+
+- **Waterfall doesn't mean what you think it means**
+
+    https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means
     
     
 ## Performance
