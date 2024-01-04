@@ -401,6 +401,12 @@ modules.
 
      This is not an argument against React specifically but rather an argument that the Web platform has introduced many features over the last 5 years or so that render web frameworks unnecessary for many use-cases.
 
+- ** **
+
+    https://www.mayank.co/blog/react-server-components/
+
+    A well-researched, clear, and dispassionate review of React Server Components
+
 **[Index](#index)**
 
 
