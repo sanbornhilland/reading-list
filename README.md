@@ -203,6 +203,12 @@ modules.
     
 ## Performance
 
+- **Optimizing Javascript**
+
+    https://romgrk.com/posts/optimizing-javascript
+
+    A good overview of a number of optimization strategies in JavaScript.
+
 - **Idle Until Urgent**
 
      https://philipwalton.com/articles/idle-until-urgent/
