@@ -21,6 +21,7 @@
 - [Video](#video)
 - [UX](#ux)
 - [Networking](#networking)
+- [API](#api)
 
 ## Wisdom
 
@@ -513,5 +514,12 @@ modules.
     </details>
 
     
+**[Index](#index)**
+
+## API
+
+- **Why I'm Over GraphQL**
+
+    https://bessey.dev/blog/2024/05/24/why-im-over-graphql/
 
 **[Index](#index)**
