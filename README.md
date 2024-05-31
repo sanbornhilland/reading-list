@@ -118,6 +118,10 @@
 - **On Demand Learning is Ruining the Tech Industry**
 
   https://www.jernesto.com/articles/learning.html
+
+- **How Developers Stop Learning - Rise of the Expert Beginner**
+
+  https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
   
 **[Index](#index)**
 
