@@ -22,6 +22,7 @@
 - [UX](#ux)
 - [Networking](#networking)
 - [API](#api)
+- [Tinkering](#tinkering)
 
 ## Wisdom
 
@@ -525,5 +526,13 @@ modules.
 - **Why I'm Over GraphQL**
 
     https://bessey.dev/blog/2024/05/24/why-im-over-graphql/
+
+**[Index](#index)**
+
+## Tinkering
+
+- https://www.val.town/
+- https://codesandbox.io/
+- https://glitch.com/
 
 **[Index](#index)**
