@@ -358,6 +358,10 @@ modules.
 
 ## HTML/CSS
 
+- **Everything you need to know about <head>**
+
+  https://htmlhead.dev/
+
 - **Breaking Up with SVG-in-JS in 2023**
 
     https://kurtextrem.de/posts/svg-in-js
