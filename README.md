@@ -354,6 +354,12 @@ modules.
 
     https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
 
+- **A Different Way to Think About Typescript***
+
+    Thinking of Typescript as a functional language to operate over sets.
+
+    https://www.rob.directory/blog/a-different-way-to-think-about-typescript
+
 **[Index](#index)**
 
 ## HTML/CSS
