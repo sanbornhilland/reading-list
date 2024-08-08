@@ -265,6 +265,12 @@ modules.
 - **Speeding Up the Javascript Ecosystem**
 
     https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/
+
+- **When You Should Prefer Map Over Object in JavaScript**
+
+    Excellent deep-dive into the differences between Map and Object and some good tidbits on how to run benchmarks in general.
+
+    https://www.zhenghao.io/posts/object-vs-map
     
 **[Index](#index)**
 
