@@ -140,10 +140,11 @@
 
   https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online
 
-- **Open Source Computer Science Degree**
+- **Open Source Computer Science Courses**
 
-  https://github.com/ForrestKnight/open-source-cs
-  
+  - https://github.com/ossu/computer-science
+  - https://github.com/ForrestKnight/open-source-cs
+
 - **Finite State Machines**
 
   https://www.youtube.com/watch?v=4rNYAvsSkwk
