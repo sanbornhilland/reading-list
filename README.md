@@ -353,6 +353,10 @@ modules.
 
     https://philipwalton.com/articles/loading-polyfills-only-when-needed/
 
+- **Micro-libraries Need to Die Already**
+
+  https://bvisness.me/microlibraries/
+
 **[Index](#index)**
 
 ## TypeScript
