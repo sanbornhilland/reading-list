@@ -123,6 +123,10 @@
 - **How Developers Stop Learning - Rise of the Expert Beginner**
 
   https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
+
+- **Software development topics I've changed my mind on after 6 years in the industry**
+
+  https://chriskiehl.com/article/thoughts-after-6-years
   
 **[Index](#index)**
 
