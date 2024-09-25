@@ -511,6 +511,16 @@ modules.
 
     https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8
 
+- **Fighting back against proper noun feature names**
+
+    https://kubie.co/blog/fighting-feature-names/
+
+- **The Grammar of Interactivity**
+
+    https://uxbooth.com/articles/the-grammar-of-interactivity/
+
+    Introduces the the "Would you like to? / I would like to" (WYLTIWLT) test to determine button copy. Button copy should answer these two questions grammatically. 
+
 ### ToggleSwitches
 
 #### Conventional Wisdom
