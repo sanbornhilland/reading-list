@@ -296,6 +296,12 @@ modules.
     https://joshcollinsworth.com/blog/antiquated-react
 
     I don’t think most people using React on a regular basis realize quite how much it’s fallen behind.
+
+- **Web Components are not Framework Components — and That’s Okay**
+
+    The core it is that Web Components and Frameworks are not necessarily in direct competition with each other. We mistakenly believe that because we have lumped two distinct categories of things under the term "component". The first is **Generalizable Elements** and the second is **Reactive Templating**. The first category would be ideally handled by Web Components because there is no need to be remaking all of these general components (Tabs, Popovers etc) in each framework. But frameworks have a role to play because for complex applications they still provided a lot of funcionality that would be hard to do with pure HTML/CSS/WebComponents.
+
+    https://lea.verou.me/blog/2024/wcs-vs-frameworks/
   
 
 ## JavaScript
