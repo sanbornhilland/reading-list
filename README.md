@@ -285,6 +285,12 @@ modules.
 
 ## JS Framework Wars
 
+- **If Not React, Then What**
+
+    https://infrequently.org/2024/11/if-not-react-then-what/
+
+    An argument against using React and a list of helpful resources to avoid it. 
+
 - **What to Expect From Your Framework**
 
     https://johan.hal.se/wrote/2023/02/17/what-to-expect-from-your-framework/
