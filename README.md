@@ -426,6 +426,12 @@ modules.
 
     https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/
 
+- **Plain Vanilla**
+
+    https://plainvanillaweb.com/pages/components.html
+
+    An explainer for doing web development using only vanilla techniques. No tools, no frameworks — just HTML, CSS, and JavaScript.
+
 **[Index](#index)**
 
 ## React
